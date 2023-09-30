@@ -1,5 +1,13 @@
 # brew tap tomsdoo/brew
 
+## md-book
+
+repository: https://github.com/tomsdoo/md-book
+
+``` shell
+brew install tomsdoo/brew/md-book
+```
+
 ## openapi-view
 
 repository: https://github.com/tomsdoo/openapi-view
