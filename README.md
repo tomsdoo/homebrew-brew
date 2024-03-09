@@ -15,3 +15,11 @@ repository: https://github.com/tomsdoo/openapi-view
 ``` shell
 brew install tomsdoo/brew/openapi-view
 ```
+
+## use-gist
+
+repository: https://github.com/tomsdoo/use-gist
+
+``` shell
+brew install tomsdoo/brew/use-gist
+```
