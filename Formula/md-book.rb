@@ -3,9 +3,9 @@ require "language/node"
 class MdBook < Formula
   desc "It helps you to aggregate the markdown resources in one page."
   homepage "https://github.com/tomsdoo/md-book"
-  url "https://registry.npmjs.org/@tomsd/md-book/-/md-book-1.2.0.tgz"
-  version "1.2.0"
-  sha256 "2536f94efad1ce8cb6e806e3079e442b8582048fef34caa0739feacec12ed566"
+  url "https://registry.npmjs.org/@tomsd/md-book/-/md-book-1.3.3.tgz"
+  version "1.3.3"
+  sha256 "df519899efc8977bfdeedee9a887d4d511c89961b5d31514a79a272ffb255e57"
   license "MIT"
   head "https://github.com/tomsdoo/md-book.git", branch: "main"
 
