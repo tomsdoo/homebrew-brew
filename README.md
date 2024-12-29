@@ -23,3 +23,11 @@ repository: https://github.com/tomsdoo/use-gist
 ``` shell
 brew install tomsdoo/brew/use-gist
 ```
+
+## use-keychain
+
+repository: https://github.com/tomsdoo/use-keychain
+
+``` shell
+brew install tomsdoo/brew/use-keychain
+```
