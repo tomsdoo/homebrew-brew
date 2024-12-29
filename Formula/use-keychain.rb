@@ -3,9 +3,9 @@ require "language/node"
 class UseKeychain < Formula
   desc "keychain utility."
   homepage "https://github.com/tomsdoo/use-keychain"
-  url "https://registry.npmjs.org/use-keychain/-/use-keychain-0.1.0.tgz"
-  version "0.1.0"
-  sha256 "5ffa12e1db1bfd64bbd738e40cb8b89a63afe9649c4887f097f834bac4e42fd4"
+  url "https://registry.npmjs.org/use-keychain/-/use-keychain-0.2.0.tgz"
+  version "0.2.0"
+  sha256 "bbe6d73a57efe75bb7521dd728ee516cdd5469e74b293b571abd7e55e6175b26"
   license "MIT"
   head "https://github.com/tomsdoo/use-keychain.git", branch: "main"
 
