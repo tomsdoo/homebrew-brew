@@ -3,9 +3,9 @@ require "language/node"
 class OpenapiView < Formula
   desc "a local server that provides the we page with an open api yaml file"
   homepage "https://github.com/tomsdoo/openapi-view"
-  url "https://github.com/tomsdoo/openapi-view/archive/refs/tags/v0.2.0.zip"
-  version "0.2.0"
-  sha256 "05aacf0afdfb36356166c054cc23c0d4deed4a7d87f633ab3c5b5b06ba85bffa"
+  url "https://github.com/tomsdoo/openapi-view/archive/refs/tags/v1.0.0.zip"
+  version "1.0.0"
+  sha256 "cc183b4402fef9ee3bd4283208787d61796601e274200d2cfff772d3e39f17c8"
   license "MIT"
   head "https://github.com/tomsdoo/openapi-view.git", branch: "main"
 
